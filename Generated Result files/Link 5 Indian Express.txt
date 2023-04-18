@@ -1,0 +1,30 @@
+The article url: https://indianexpress.com/article/cities/chandigarh/haryana-rs-77-crore-develop-20-backward-blocks-skuy-scheme-8545814/
+
+Web article content:  Haryana allocates Rs 77 crore to develop 20 backward blocks under SKUY scheme The objective of Swaranjayanti Khand Utthan Yojana was to identify underdeveloped blocks, bridge gaps in local infrastructure and development that cannot be made through existing schemes Haryana government has earmarked about Rs 77 crore for the development of 20 backward blocks of eight districts during the first phase of Swaranjayanti Khand Utthan Yojana (SKUY) in 2023-24. The budget for the scheme was approved by the state-level empowered committee under SKUY chaired by Chief Secretary Sanjeev Kaushal in Chandigarh Saturday. The funds are being provided for the financial resources to supplement and converge the existing development inflows into the identified blocks. Kaushal said that the objective of the scheme was to identify underdeveloped blocks, and bridge gaps in local infrastructure and development that cannot be made through existing schemes. “Besides, the scheme aims at improving livelihood opportunities through skill development programmes in convergence with other schemes, skill development design and marketing support in convergence with other departments. This initiative would ensure adequate flow of funds to these identified blocks through special components in the normal existing schemes,” Kaushal said. The working parameters adopted in the first phase of the scheme are land irrigated area, literate people, villages with high school education facilities, villages with any health care facilities, female literacy rate and enrollment of girls in schools. The 20 blocks identified in eight districts include Loharu, Behal, Siwani, Kairu, Badhra, Guhla, Nuh, Punhana, Taoru Nagina, Firozpur Jhirka, Hathin, Morni, Pinjore, Raipur Rani, Barwala, Rewari, Bawal, Sadaura and Chhachhrauli. Earlier, the central government used to provide funds for developing underdeveloped blocks under the Backward Region Grant Fund scheme, which has now been withdrawn. Now the state government has taken the initiative to develop underdeveloped blocks utilising the state funds under SKUY, said a state government spokesperson.  
+
+Analysis Results-
+
+The word count is: 302
+
+Average word length is: 5.827814569536423
+
+Average number of syllables per word is: 2.0794701986754967
+
+Average number of words per sentence is: 30.2
+
+The count of complex words is: 61
+
+The complex words percentage is: 20.198675496688743
+
+The count of personal pronouns is: 0
+
+The Fog Index is: 20.159470198675496
+
+The positive score is: 5
+
+The negative score is: 2
+
+The polarity score is: 0.4285713673469475
+
+The subjectivity score is: 0.029045643033005632
+
